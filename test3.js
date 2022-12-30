@@ -11,5 +11,5 @@ function YaşHesapla(yil){
     return yas;
 }
 
-const benimYasim = YaşHesapla(2004);
+const benimYasim = YaşHesapla(2003);
 console.log(benimYasim);
